@@ -8,3 +8,10 @@ And an article was [published](https://www.sciencedirect.com/science/article/abs
 The tool was originally developed by [Meirav Aharon Gutman](https://www.linkedin.com/in/meirav-aharon-gutman-67931679), [Mordechai Schaap](https://www.linkedin.com/in/mordechaischaap/) and Idan Lederman
 
 The code in this repository enables recreating Social Topography model in a 3D geographic raster, that can later on be used as an elevation model in a 3D GIS environment (e.g. QGIS, ArcGIS Pro, or on the web using Cesium or Mapbox)
+
+# How does it work?
+
+The tool has two main components
+
+1. A conversion from values from one source to geographical heights using linear algebra
+2. Generating the elevaton file open source geographic libraries
