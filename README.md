@@ -22,7 +22,7 @@ The tool has two main components
 During preperation, the tool will preview
 the 3D model using pydeck in a notebook environment
 
-![Social Topography of socioeconomic index in Haifa](https://shai2u.github.io/social-topography/site/images/preview.png)
+![Pydeck 3d preview](https://shai2u.github.io/social-topography/site/images/preview.png)
 # Requirements
 
 Geopandas
