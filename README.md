@@ -16,3 +16,8 @@ The tool has two main components
 
 1. A conversion from values from one source to geographical heights using linear algebra
 2. Generating the elevaton file open source geographic libraries
+
+# Requirements
+
+Geopandas
+GDAL Installed on your operating system and that can run in command line
