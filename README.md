@@ -25,6 +25,6 @@ the 3D model using pydeck in a notebook environment
 ![Pydeck 3d preview](https://shai2u.github.io/social-topography/site/images/preview.png)
 # Requirements
 
-Geopandas
-Pydeck
-GDAL Installed on your operating system and that can run in command line
+* Geopandas
+* Pydeck
+* GDAL Installed on your operating system and that * can run in command line
