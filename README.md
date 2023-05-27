@@ -1,4 +1,4 @@
-# Social Topography
+# Social Topography Tool and QGIS plugin
 
 Social Topography is a geographic tool that converts values to smooth hills and vallyes,
 the tool made it to [news media in Israel](https://www.calcalist.co.il/local/articles/0,7340,L-3680112,00.html):
